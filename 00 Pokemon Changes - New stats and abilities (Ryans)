@@ -1,4 +1,4 @@
-Pokemon changes (Note: Unfinished)
+Pokemon changes (Note: Unfinished - although these may not be in the game at the moment, they are coded and are being tested.)
 ---------------
 ----
 |Tentacruel|
@@ -55,5 +55,19 @@ Speed:            90  (+20)
 Total BST:        545 (+93)
 --
 Ability:          Prankster
+----
+----
+|Victreebel|
+--
+HP:               118 (+38)
+Attack:           112 ( +7)
+Defense:          65  ( +0)
+Special attack:   95  ( -5)
+Special defense:  70  ( +0)
+Speed:            95  (+25)
+--
+Total BST:        545 (+55)
+--
+Ability:          Effect spore
 ----
 ----

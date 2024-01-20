@@ -1,106 +1,59 @@
 Pokemon changes (Note: Unfinished)
 ---------------
 ----
-Tentacruel:
+|Tentacruel|
 --
-HP:               1
-Attack:           1
-Defense:          1
-Special attack:   1
-Special denfense: 1
-Speed:            1
+HP:               90
+Attack:           60
+Defense:          85
+Special attack:   90
+Special defense: 110
+Speed:            110
 --
-Total BST:        1
+Total BST:        545
 --
 Ability:          Merciless
 ----
-Bibarel:
+----
+|Octillery|
 --
-HP:               1
-Attack:           1
-Defense:          1
-Special attack:   1
-Special denfense: 1
-Speed:            1
+HP:               85  (+10)
+Attack:           75  (-30)
+Defense:          85  (+10)
+Special attack:   125 (+20)
+Special defense:  100 (+25)
+Speed:            95  (+55)
 --
-Total BST:        1
+Total BST:        545 (+65)
 --
 Ability:          X
 ----
-Bibarel:
+----
+|Kingler|
 --
-HP:               1
-Attack:           1
-Defense:          1
-Special attack:   1
-Special denfense: 1
-Speed:            1
+HP:               85  (+30)
+Attack:           135 ( +5)
+Defense:          105 (-10)
+Special attack:   40  (-10)
+Special defense:  75  (+25)
+Speed:            85  (+10)
 --
-Total BST:        1
+Total BST:        525 (+55)
 --
 Ability:          X
 ----
-Bibarel:
---
-HP:               1
-Attack:           1
-Defense:          1
-Special attack:   1
-Special denfense: 1
-Speed:            1
---
-Total BST:        1
---
-Ability:          X
 ----
-Bibarel:
+|Noctowl|
 --
-HP:               1
-Attack:           1
-Defense:          1
-Special attack:   1
-Special denfense: 1
-Speed:            1
+HP:               100 ( +0)
+Attack:           45  ( -5)
+Defense:          95  (+45)
+Special attack:   99  (+13)
+Special defense:  116 (+20)
+Speed:            90  (+20)
 --
-Total BST:        1
+Total BST:        545 (+93)
 --
-Ability:          X
+Ability:          Prankster
 ----
-Bibarel:
---
-HP:               1
-Attack:           1
-Defense:          1
-Special attack:   1
-Special denfense: 1
-Speed:            1
---
-Total BST:        1
---
-Ability:          X
 ----
-Bibarel:
---
-HP:               1
-Attack:           1
-Defense:          1
-Special attack:   1
-Special denfense: 1
-Speed:            1
---
-Total BST:        1
---
-Ability:          X
-----
-Bibarel:
---
-HP:               1
-Attack:           1
-Defense:          1
-Special attack:   1
-Special denfense: 1
-Speed:            1
---
-Total BST:        1
---
-Ability:          X

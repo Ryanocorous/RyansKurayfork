@@ -1,8 +1,10 @@
+# Ryan's fork
+
+Modded and forked. Currently in progress.
+
 # Kuray Infinite Fusion (KIF)
 
-Kuray Infinite Fusion (KIF) is a fork of Infinite Fusion, which adds countless new features, including infinite colors for shinies, mods support (people can create mods and load them from a "Mods" folder), a powerful AI (thanks to DemICE), and more!
-
-Kuray Infinite Fusion (KIF) is community-based and community-focused, it's made by the community, for the community, allowing anyone to easily create new features for Infinite Fusion and to have a better experience overall.
+Kuray Infinite Fusion (KIF) is a fork of Infinite Fusion, which adds countless new features, including infinite colors for shinies, mods support (people can create mods and load them from a "Mods" folder), a powerful AI (thanks to DemICE), and more! It's community-based and community-focused, it's made by the community, for the community, allowing anyone to easily create new features for Infinite Fusion and to have a better experience overall.
 
 -----------------------------------------------
 

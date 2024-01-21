@@ -1,7 +1,13 @@
 Pokemon changes (Note: Unfinished - although these may not be in the game at the moment, they are coded and are being tested.)
+
+Format: 
+| Name - Pokedex number | - Notes and added items
+Stats
+Total BST
+Ability
 ---------------
 ----
-|Tentacruel|
+|Tentacruel - 73|
 --
 HP:               90
 Attack:           60
@@ -43,7 +49,7 @@ Total BST:        525 (+55)
 Ability:          X
 ----
 ----
-|Noctowl|
+|Noctowl - |
 --
 HP:               100 ( +0)
 Attack:           45  ( -5)
@@ -57,7 +63,7 @@ Total BST:        545 (+93)
 Ability:          Prankster
 ----
 ----
-|Victreebel|
+|Victreebel - |
 --
 HP:               118 (+38)
 Attack:           112 ( +7)
@@ -71,7 +77,7 @@ Total BST:        545 (+55)
 Ability:          Effect spore
 ----
 ----
-|Muk| - Now drops black sludge
+|Muk- | - Now drops black sludge
 --
 HP:               118 (+13)
 Attack:           100 ( -5)
@@ -84,4 +90,46 @@ Total BST:        545 (+45)
 --
 Ability:          X
 ----
+----
+|Crobat - 169|
+--
+HP:               90  ( +5)
+Attack:           100 (+10)
+Defense:          80  ( +0)
+Special attack:   65  ( -5)
+Special defense:  80  ( +0)
+Speed:            130 ( +0)
+--
+Total BST:        545 (+10)
+--
+Ability:          Speed boost
+----
+----
+|Bannette - |
+--
+HP:               90  (+26)
+Attack:           125 (+10)
+Defense:          85  (+25)
+Special attack:   70  (-13)
+Special defense:  75  (+12)
+Speed:            95  (+30)
+--
+Total BST:        545 (+90)
+--
+Ability:          x
+----
+----
+|Golem - |
+--
+HP:               90  (+10)
+Attack:           130 (+20)
+Defense:          135 ( +5)
+Special attack:   50  ( -5)
+Special defense:  85  (+20)
+Speed:            45  ( +0)
+--
+Total BST:        535 (+90)
+--
+Ability:          Water absorb
+---
 ----

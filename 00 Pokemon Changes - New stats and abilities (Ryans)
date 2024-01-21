@@ -9,12 +9,12 @@ Ability
 ----
 |Tentacruel - 73|
 --
-HP:               90
-Attack:           60
-Defense:          85
-Special attack:   90
-Special defense:  110
-Speed:            110
+HP:               90  (+10)
+Attack:           60  (-10)
+Defense:          85  (+20)
+Special attack:   90  (+10)
+Special defense:  110 (-10)
+Speed:            110 (+10)
 --
 Total BST:        545
 --

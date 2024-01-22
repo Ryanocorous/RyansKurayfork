@@ -2,6 +2,27 @@
 
 Modded and forked. Currently in progress.
 
+# ALPHA Changelog
+-----------------
+
+V0.1
+----
+
+- Rebalanced stats for some Pokémon
+- Rebalanced abilities for some Pokémon
+- Added new item drops for some Pokémon
+
+- All information in 00 Pokémon Changes 
+https://github.com/Ryanocorous/RyansKurayfork/blob/main/-%20Pokemon%20Changes
+
+V0.2
+----
+
+- Added Ability Gem
+- Created Ability Gem image and added to folder
+
+Current changes are local and not added to Github yet. It will be updated soon.
+
 # Kuray Infinite Fusion (KIF)
 
 Kuray Infinite Fusion (KIF) is a fork of Infinite Fusion, which adds countless new features, including infinite colors for shinies, mods support (people can create mods and load them from a "Mods" folder), a powerful AI (thanks to DemICE), and more! It's community-based and community-focused, it's made by the community, for the community, allowing anyone to easily create new features for Infinite Fusion and to have a better experience overall.
